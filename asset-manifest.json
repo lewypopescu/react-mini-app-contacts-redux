@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-mini-app-contacts-redux/static/css/main.0ee3b164.css",
+    "main.js": "/react-mini-app-contacts-redux/static/js/main.afbab7d3.js",
+    "index.html": "/react-mini-app-contacts-redux/index.html",
+    "main.0ee3b164.css.map": "/react-mini-app-contacts-redux/static/css/main.0ee3b164.css.map",
+    "main.afbab7d3.js.map": "/react-mini-app-contacts-redux/static/js/main.afbab7d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ee3b164.css",
+    "static/js/main.afbab7d3.js"
+  ]
+}
